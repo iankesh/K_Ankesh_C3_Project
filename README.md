@@ -13,3 +13,7 @@ The project will be submitted in the form of a GitHub URL. The following steps a
 
     2nd commit with message "Part 3: Failing test case" should contain:
         Failing test cases written for the method/s to be implemented in part 3.
+
+    3rd commit with message "Part 3: Solution" should contain:
+        Implemented feature for calculating order value
+        Passing test cases for the implemented method/s.
